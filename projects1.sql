@@ -1,3 +1,6 @@
+--covid analysis by md.momunul morshed
+
+
 Select *
 From Project1..['CovidDeath']
 Where continent is not null 
