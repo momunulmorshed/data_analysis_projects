@@ -1,0 +1,14 @@
+What is the total parking spaces of the city (a) owned /leased
+(B) Property type
+(c) by building status
+(d) by bldg state
+2. in which building state parking situation is in excess put in order 
+3. building citys that have been decommessioned along with total parking 
+4.In which type of propety perking space is in  excess.
+5. where is more active parking i.e either in owned or leased
+6. states with more least parking similarly 
+with more owned parking.
+7.Which property have more active perking 
+8. How's the distribution of parking in city by property type.
+9.How's the distribution of parking by bldg status and bldg state
+10.Building states which has 0 parking spaces
